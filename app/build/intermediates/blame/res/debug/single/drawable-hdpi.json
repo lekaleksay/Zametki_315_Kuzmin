@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_priority_disabled.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_priority_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_new_task.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new_task.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_priority_low.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_priority_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_priority_high.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_priority_high.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_delete.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_delete_disabled.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_save.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_priority_middle.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_priority_middle.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_sort.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_sort_disabled.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_priority.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_priority.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_new_task_disabled.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new_task_disabled.png"
+    }
+]

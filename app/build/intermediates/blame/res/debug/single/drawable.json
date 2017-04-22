@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit_enabled.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\search_edit_enabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sort_icon_selector.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\sort_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_row_selector.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\listview_row_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit_disabled.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\search_edit_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_row_hover.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\listview_row_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear.png",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_row_disabled.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\listview_row_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit_selector.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\search_edit_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_icon_selector.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\delete_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_task_icon_selector.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\new_task_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\priority_icon_selector.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\priority_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_row_normal.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\drawable\\listview_row_normal.xml"
+    }
+]

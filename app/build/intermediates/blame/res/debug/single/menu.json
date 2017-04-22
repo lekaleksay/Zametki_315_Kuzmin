@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\menu\\todo_details.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\menu\\todo_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\build\\intermediates\\res\\merged\\debug\\menu\\todo_list.xml",
+        "source": "C:\\Users\\Leka\\AndroidStudioProjects\\Lesson_222\\app\\src\\main\\res\\menu\\todo_list.xml"
+    }
+]

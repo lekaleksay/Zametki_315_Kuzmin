@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leka\AndroidStudioProjects\Lesson_222\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="23933798cf9424b5a3c15296f6e366e396ece662">
+        <dex dex="C:\Users\Leka\AndroidStudioProjects\Lesson_222\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_34cbf23c8f6981c5fc8bc7ab90751d7ffdbc9edf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leka\AndroidStudioProjects\Lesson_222\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Leka\AndroidStudioProjects\Lesson_222\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b698f1c5c7275f862264e30a5733667d9811bd41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leka\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Leka\AndroidStudioProjects\Lesson_222\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_219c9b7a1258f214dbba8a0aac0c0da8273ab539\classes.dex" />
+    </item>
+
+</items>
